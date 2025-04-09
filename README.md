@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Bautista Mendibe</h1>
 
-<!--
-**BautistaMendibe/BautistaMendibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐣 About Me:
+I'm a Systems Engineer with 4 years of experience in software development. Passionate about innovation and learning.
 
-Here are some ideas to get you started:
+## 💻 What I'm Up To
+- 🚀 Building a project management app with Next.js and Supabase  
+- 📊 Exploring data science with Python  
+- 🤖 Learning Reinforcement Learning for algorithmic trading  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 About Me
+I also share content sometimes on:
+- [LinkedIn](https://linkedin.com/in/bautista-mendibe-981998134/)  
+
+## 🛠 Tech Stack:
+- Frontend: Next.js, React, Angular  
+- Backend: Node.js, Express, Supabase  
+- Languages: TypeScript, JavaScript, Python  
+- Tools: Git, Docker, Postman  
