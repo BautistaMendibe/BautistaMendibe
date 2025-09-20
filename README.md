@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋 I'm Bautista Mendibe</h1>
 
 ## 🐣 About Me:
-I'm a Systems Engineer with 4 years of experience in software development. Passionate about innovation and learning.
+I'm a Systems Engineer with 4 years of experience in software development.Working on Mercado Libre. Passionate about innovation and learning.
 
 
 ## 💻 What I'm Up To
-- 🚀 Building a project management app with Next.js and Supabase  
-- 📊 Exploring data science with Python  
-- 🤖 Learning Reinforcement Learning for algorithmic trading
+- 🚀 Building a catalog web app with Next.js and Supabase 
 
   
   
@@ -26,9 +24,6 @@ My portfolio: [bautistamendibe.com](https://bautistamendibe.com)
 #### Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Frontend:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
